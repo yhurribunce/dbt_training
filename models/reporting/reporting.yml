@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: report_profit_by_customer
+    description: Profitability for all customers excluding gambling
+
+    columns:
+      - name: profit
+        description: '{{ doc("col_comment") }}'
+
+        test:
+          - not_null
+
+      - name: customerid
+        description: '{{ doc("customerid_comment") }}'
