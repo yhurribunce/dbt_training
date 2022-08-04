@@ -11,6 +11,8 @@ This is based on dbt Documentation.
 
 Below is an example of how to embed an image.
 
+* Added another comment to the demo in PR template
+
 
 ![](https://connect.ikhokha.com/hs-fs/hubfs/raw_assets/public/iKhokha_Landings/images/iK_Logo_White.png?width=300&name=iK_Logo_White.png)
 
